@@ -1,0 +1,4 @@
+google-genai
+langfuse
+openinference-instrumentation-google-genai
+python-dotenv
